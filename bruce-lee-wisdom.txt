@@ -3,6 +3,7 @@ Niko
 Funny joke 1
 Funny joke 2
 Funny joke 3
+<<<<<<< HEAD
 =======
 Andi
 
@@ -21,3 +22,11 @@ Enes
 "Make at least one definite move daily toward your goal."
 "Cease negative mental chattering. — If you think a thing is impossible, you'll make it impossible."
 
+=======
+
+Enes 
+
+There are no limits. There are plateaus, but you must not stay there, you must go beyond them.
+Make at least one definite move daily toward your goal.
+Cease negative mental chattering. — If you think a thing is impossible, you'll make it impossible.
+>>>>>>> f-bruce-lee-wisdom-enes
