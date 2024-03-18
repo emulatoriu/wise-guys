@@ -1,3 +1,8 @@
+Milos
+1. Chuck Norris can unit test entire applications with a single assert.
+2. Chuck Norris’s keyboard doesn’t have a Ctrl key because nothing controls Chuck Norris.
+3. When Chuck Norris throws exceptions, it’s across the room.
+=======
 
 
 Andi
@@ -34,8 +39,4 @@ Sema
 Chuck Norris hat nicht Geburtstag. Er war schon immer da.
 Chuck Norris feiert seinen Geburtstag nicht. Sein Geburtstag feiert ihn!
 Chuck Norris hat bis zur Unendlichkeit gezählt ... 2-mal
-
-
-
-
 
